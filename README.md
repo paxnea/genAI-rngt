@@ -1,2 +1,2 @@
 # genAI-rngt
-A study of LLM performance on Random Number Generation Tasks (RNGTs)
+Source code for the paper "A Comparison of Large Language Model and Human Performance on Random Number Generation Tasks".
